@@ -60,6 +60,13 @@ Local restaurant order-management demo built with **Java 17, Spring Boot, MySQL,
 - **Data-driven problem solving:** validating datasets and translating results into actionable insights
 - **Technical operations experience:** troubleshooting, quality checks, process documentation, and team collaboration
 
+## Download my resume
+
+- [**Resume (English, PDF)**](https://henrygonzalezalguera.github.io/files/Henry_Gonzalez_Resume_EN.pdf)
+- [**CV (español, PDF)**](https://henrygonzalezalguera.github.io/files/Henry_Gonzalez_CV_ES.pdf)
+
+These public versions omit private phone/email details; recruiters can reach me through LinkedIn.
+
 ## Let's connect
 
 I'm interested in **Junior Software Developer / .NET Developer**, **IT Support / IT Analyst**, and **Junior Data Analyst** opportunities, including internships and entry-level roles in Costa Rica.
